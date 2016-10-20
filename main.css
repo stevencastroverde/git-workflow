@@ -1,5 +1,6 @@
-p {
-  text-size: 72px;
-
+body {
+  color: red;
+  font-style: italic;
+  font-size: 1.5em;
 
 }
